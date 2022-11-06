@@ -1,0 +1,23 @@
+[credential]
+  credentialStore = secretservice
+  helper = manager-core
+
+[commit]
+  gpgsign = true
+
+[core]
+  editor = code -w
+
+[gpg]
+  program = gpg2
+
+[init]
+  defaultBranch = main
+
+[tag]
+  forceSignAnnotated = true
+
+[user]
+  email = 108420089+DanN10131@users.noreply.github.com
+  name = DanN10131
+  signingkey = 16790075F7966E74
